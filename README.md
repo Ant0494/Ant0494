@@ -70,11 +70,11 @@ Mi experiencia como Administrador se desarrolló en el **Sector Público y Priva
 Estoy abierto a **oportunidades, colaboraciones y proyectos** en el mundo del Análisis y la Ciencia de Datos.
 
 <p>
-  <a href="https://www.linkedin.com/in/antonio-arias-telles" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/antonio-arias-telles" style="text-decoration: none;" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn logo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:antonioarte94@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email logo" />
+  <a href="mailto:antonioarte94@gmail.com" style="text-decoration: none;" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
   </a>
 </p>
