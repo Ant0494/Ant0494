@@ -1,5 +1,5 @@
 <div align="left">
-  <h1 style="font-size: 80px;">⚡ Antonio Arias Telles 💼</h1>
+  <h1 style="font-size: 80px;">⚡Antonio Arias Telles 💼</h1>
   </div>
 
 **Administrador | En Transición Avanzada hacia el Análisis y la Ciencia de Datos.**
