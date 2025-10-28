@@ -31,7 +31,7 @@ Mi valor reside en la **traducción integral** de la **Gestión Empresarial** a 
 * **Arquitectura de Datos con Mención en Big Data** - Instituto Cibertec | *En curso (5to Ciclo)*
 * **Especialización en Business Intelligence & Business Analytics** - UNI | *2023 - 2024*
 * **Licenciatura en Administración** - UNMSM | *2019* 
-* **Diplomado en Gestión de Pequeñas y Medianas Empresas** - Universidad ESAN | [cite_start]*2019* [cite: 40]
+* **Diplomado en Gestión de Pequeñas y Medianas Empresas** - Universidad ESAN | *2019* 
 * **Visualización de Datos con Power BI y Google Data Studio** - Universidad de Lima | *2021*
 * **Indicadores de Gestión** - Centrum PUCP Business School | *2021* 
 * **Especialista en Excel Empresarial** - Universidad Nacional de Ingeniería |*2017*
