@@ -19,32 +19,21 @@ He creado este espacio para recopilar un **portafolio de soluciones reales** enf
 ---
 Me especializo en asegurar la **calidad de los registros** a través de la arquitectura, creando una base de datos confiable. Esto es fundamental para impulsar la **Eficiencia Operativa** del negocio y la correcta toma de decisiones.
 
-Mi valor reside en la **traducción integral** de la **Gestión Empresarial** a soluciones técnicas:
+Mi valor reside en la **traducción integral** de la **Gestión Empresarial** a soluciones técnicas.
 
 1. **Modelado y Calidad de Datos:** Diseño estructuras limpias (SQL Server / Google Sheets) para garantizar que la información de tu negocio sea confiable desde el origen.
 2. **Automatización de Tareas:** Erradico reportes manuales en Excel, tareas repetitivas y procesos lentos utilizando flujos automatizados con n8n, AppScript y Python.
 3. **Sistemas de Control Visual (BI):** Traduzco datos complejos en tableros interactivos para que los gerentes y dueños de negocio tomen decisiones al instante.
 
 
-📁 Proyectos Destacados
----
-Aquí puedes ver algunas de las soluciones que he diseñado para resolver problemas de negocio reales:
-
-*   **[📊 Portafolio de Business Intelligence](https://github.com/Ant0494/bi-visual-portfolio)**: Catálogo visual de tableros de control interactivos diseñados en Power BI y Looker Studio para optimización de KPIs operativos.
-*   **[⚙️ ETL y Limpieza de Datos con Python](https://github.com/Ant0494/data-cleaning-and-etl-python)**: Automatización de procesos de extracción, depuración y consolidación de reportes administrativos y operativos.
-*   **[🗄️ Modelado e Inteligencia con SQL](https://github.com/Ant0494/sql-business-analytics)**: Consultas complejas, procedimientos almacenados y diseño de esquemas relacionales eficientes.
-
-👉 *Puedes explorar la lista completa de mis repositorios activos aquí: **[Ver todos mis repositorios](https://github.com/Ant0494?tab=repositories)***
-
-
 🎓 Educación y Formación Técnica
 ---
 * **Arquitectura de Datos con Mención en Big Data** - Instituto Cibertec | *Egresado*
 * **Especialización en Business Intelligence & Business Analytics** - UNI | *2023 - 2024*
-* **Licenciatura en Administración** - UNMSM | *2019*
-* **Diplomado en Gestión de Pequeñas y Medianas Empresas** - Universidad ESAN | *2019*
+* **Licenciatura en Administración** - UNMSM | *2019* 
+* **Diplomado en Gestión de Pequeñas y Medianas Empresas** - Universidad ESAN | *2019* 
 * **Visualización de Datos con Power BI y Google Data Studio** - Universidad de Lima | *2021*
-* **Indicadores de Gestión** - Centrum PUCP Business School | *2021*
+* **Indicadores de Gestión** - Centrum PUCP Business School | *2021* 
 * **Especialista en Excel Empresarial** - Universidad Nacional de Ingeniería | *2017*
 
 
@@ -73,6 +62,13 @@ Mi aprendizaje es dual y de aplicación inmediata al mundo real:
 "Caminante, no hay camino, se hace camino al andar." 
 
 — *Antonio Machado*
+
+
+📁 Proyectos
+---
+Puedes explorar y revisar los códigos, flujos y soluciones que voy construyendo directamente en mi sección de proyectos:
+
+👉 **[Explora aquí todos mis repositorios activos y soluciones técnicas](https://github.com/Ant0494?tab=repositories)**
 
 
 🌐 ¡Conectemos!
